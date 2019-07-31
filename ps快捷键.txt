@@ -1,4 +1,15 @@
 Shift+Ctrl+G  取消编组
+
 Ctrl+G        新增编组
+
 Ctrl+；       隐藏参考线
+
 Ctrl+/        锁定图层
+
+Ctrl+Z        撤销
+
+Shift+Ctrl+Z  取消撤销
+
+Shift+Ctrl+<  选中文字字号变小
+
+Shift+Ctrl+>  选中文字字号变大

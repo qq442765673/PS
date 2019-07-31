@@ -1,0 +1,4 @@
+Shift+Ctrl+G  取消编组
+Ctrl+G        新增编组
+Ctrl+；       隐藏参考线
+Ctrl+/        锁定图层
